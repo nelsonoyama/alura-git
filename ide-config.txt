@@ -1,0 +1,1 @@
+arquivo configurações que não serão monitorados pelo git
